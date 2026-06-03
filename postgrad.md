@@ -1,5 +1,3 @@
-----
-
 The College of the Liberal Arts Post-Graduate Dashboard reports on the outcomes of the College's majors and minors after graduation. 
 This is a combined effort between the College's Career Enrichment Network and the Office of Analytics and Planning. 
 
