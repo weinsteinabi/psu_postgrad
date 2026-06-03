@@ -1,5 +1,7 @@
-The following is a direct copy of the introduction panel fo the Post-Graduate Dashboard, written by myself. 
+Post-Graduate Dashboard Summary
 ----
+The following is a direct copy of the introduction panel fo the Post-Graduate Dashboard, written by myself. 
+
 The College of the Liberal Arts Post-Graduate Dashboard reports on the outcomes of the College's majors and minors after graduation. 
 This is a combined effort between the College's Career Enrichment Network and the Office of Analytics and Planning. 
 
