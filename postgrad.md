@@ -31,6 +31,7 @@ Each page has a set of three filters. The first filter (Academic Year) filters f
 ## Snapshot
 <img width="1303" height="734" alt="Snapshot of Post-Graduate Dashboard Summary page, redacted for student privacy." src="https://github.com/user-attachments/assets/14e1984c-20da-4a3d-8d5c-3185eecc848a" />
 
+
 This provides a brief glimpse into the complete dashboard. Each visualization can be individually selected and will filter the page according the information selected (ie. highlight data from students with only one internship). Information boxs also appear with further information when visuals are hovered over. The entire page can be controlled by the three filters in the top left corner. Other visualizations on other pages include interactive maps, line charts, and more. 
 
 
