@@ -1,4 +1,4 @@
-Post-Graduate Dashboard Summary
+# Post-Graduate Dashboard Summary
 ----
 The following is a direct copy of the introduction panel fo the Post-Graduate Dashboard, written by myself. 
 
